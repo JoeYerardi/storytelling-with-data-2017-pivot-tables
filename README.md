@@ -9,3 +9,15 @@ Data Source: http://bit.ly/2sAjoqV
 1. Which member of Congress took the most trips?
 2. Which sponsor paid for the most trips?
 3. For each member of Congress, which sponsor paid for the most trips?
+4. What was the most popular destination for members of 
+
+### Election Results
+Map: http://bit.ly/2sPwhNf
+
+Data Source: http://bit.ly/2sAz65k
+#### Questions
+1. In which consolidation did Clinton win the most votes?
+2. In which consolidation did Trump win the most votes?
+3. Which consolidation saw the greatest total number of votes?
+4. Which consolidations saw no votes cast?
+5. Which candidate won Rancho Bernardo consolidations?

@@ -31,3 +31,5 @@ Data Sources: http://bit.ly/2qZfhr8 and http://bit.ly/2rS0mys
 
 ### Challenge Questions
 1. Which house candidates traveled to Havana, Cuba?
+2. Which candidate won the Rancho Bernardo consolidations?
+3. What proportion of each candidate's itemized contributions came in each month?

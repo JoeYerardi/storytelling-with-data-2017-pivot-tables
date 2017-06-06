@@ -20,7 +20,14 @@ Data Source: http://bit.ly/2sAz65k
 2. In which consolidation did Trump win the most votes?
 3. Which consolidation saw the greatest total number of votes?
 4. Which consolidations saw no votes cast?
-5. Which candidate won the Rancho Bernardo consolidations?
+
+### Campaign Contributions
+Data Sources: http://bit.ly/2qZfhr8 and http://bit.ly/2rS0mys
+#### Questions
+1. How much money did each candidate raise in itemized contributions?
+2. How much money did each candidate raise from individual contributors (and organizations) vs. PACs and other committees?
+3. What was the average size of each candidate's itemized contribution?
+4. What proportion of each candidate's itemized contributions came from out-of-state?
 
 ### Challenge Questions
 1. Which house candidates traveled to Havana, Cuba?

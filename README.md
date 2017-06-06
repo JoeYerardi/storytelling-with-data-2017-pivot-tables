@@ -3,6 +3,7 @@
 
 ### Privately-Funded Congressional Travel
 Story: http://bit.ly/2qYnz2H
+
 Data Source: http://bit.ly/2sAjoqV
 #### Questions
 1. Which member of Congress took the most trips?

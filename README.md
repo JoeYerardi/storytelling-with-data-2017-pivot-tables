@@ -8,7 +8,7 @@ Data Source: http://bit.ly/2sAjoqV
 #### Questions
 1. Which House member's office took the most trips?
 2. Which sponsor paid for the most trips?
-3. For each house member's office, which sponsor paid for the most trips?
+3. For each House member's office, which sponsor paid for the most trips?
 4. What was the most popular destination for members of Congress and their staffs in May?
 
 ### Election Results
@@ -30,6 +30,6 @@ Data Sources: http://bit.ly/2qZfhr8 and http://bit.ly/2rS0mys
 4. What proportion of each candidate's itemized contributions came from out-of-state?
 
 ### Challenge Questions
-1. Which house candidates traveled to Havana, Cuba?
+1. Which House member's office had staff travel to Havana, Cuba?
 2. Which candidate won the Rancho Bernardo consolidations?
 3. What proportion of each candidate's itemized contributions came in each month?

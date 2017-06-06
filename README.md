@@ -30,6 +30,6 @@ Data Sources: http://bit.ly/2qZfhr8 and http://bit.ly/2rS0mys
 4. What proportion of each candidate's itemized contributions came from out-of-state?
 
 ### Challenge Questions
-1. Which House member's office had staff travel to Havana, Cuba?
+1. Which House members' offices had staff travel to Havana, Cuba?
 2. Which candidate won the Rancho Bernardo consolidations?
 3. What proportion of each candidate's itemized contributions came in each month?

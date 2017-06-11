@@ -1,5 +1,5 @@
 # Storytelling With Data 2017 Spreadsheets II: The Power of the Pivot Table
-## This repo contains information used in an introductory pivot tables class taught at the Boston University Storytelling with Data Workshops on 6/7/17.
+This repo contains information used in an introductory pivot tables class taught at the Boston University Storytelling with Data Workshops on 6/7/17.
 
 ### Privately-Funded Congressional Travel
 Story: http://bit.ly/2qYnz2H
